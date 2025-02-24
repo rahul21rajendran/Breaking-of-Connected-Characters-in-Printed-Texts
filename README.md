@@ -1,5 +1,5 @@
 # merged_character_detection
-LTTS
+
 •	The system only works in Linux platform
 
 •	https://drive.google.com/file/d/1px2rlT3Lus3LXBIKKctcpLzl09MtQPXm/view?usp=sharing to download the code and model file
